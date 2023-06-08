@@ -1,0 +1,8 @@
+/data/train.zip
+/data/.csv
+/data/_annotations.csv
+/data/data_test.csv
+/data/data_train.csv
+/data/train.csv
+*.jpg
+*.png
